@@ -91,19 +91,4 @@ No automated tests are included by default. Adding a small test suite (pytest) i
 1. Fork the repo and create a branch for your feature or fix.
 2. Open a pull request with a clear description of changes.
 
-## License
 
-No license specified. If you want to make this project public for reuse, consider adding a `LICENSE` file (MIT or Apache-2.0 are commonly used).
-
-## Contact
-
-For questions about this repo, update the README or open an issue.
-
----
-
-If you want, I can also:
-- Add a minimal `README` badge or project logo.
-- Detect the exact framework inside `app.py` and tailor the run instructions (I can inspect `app.py` now if you want).
-- Add a `Makefile` or PowerShell script to automate setup.
-
-Assumptions made: `app.py` is the entrypoint; `requirements.txt` lists the required dependencies. If those are incorrect, tell me and I will adapt the README accordingly.
