@@ -1,0 +1,7 @@
+streamlit
+kafka-python==2.0.2
+pyspark
+delta-spark
+redis
+pandas
+pyarrow
